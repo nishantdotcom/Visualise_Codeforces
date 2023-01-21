@@ -1,2 +1,3 @@
 # Visualise_Codeforces
-A visualiser
+
+A visualiser Codeforces application to visualise codeforces profile.
